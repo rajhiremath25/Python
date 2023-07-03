@@ -3,14 +3,14 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 # Set up the sender and receiver email addresses
-sender_email = 'geetachiremath.25@gmail.com'
-receiver_email = 'rajhiremath.25@gmail.com'
+sender_email = 'xyz@gmail.com'
+receiver_email = 'abc@gmail.com'
 
 # Set up the SMTP server and login credentials
 smtp_server = 'smtp.gmail.com'
 smtp_port = 587
-username = 'geetachiremath.25@gmail.com'
-password = 'Geeta555'
+username = 'xyz@gmail.com'
+password = 'xxx'
 
 # Create the email message
 subject = 'Hello from Python!'
